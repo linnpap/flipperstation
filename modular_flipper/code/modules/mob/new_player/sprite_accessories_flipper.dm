@@ -78,6 +78,46 @@
 	icon_state = "plain"
 	body_parts = list(BP_R_FOOT)
 
+/datum/sprite_accessory/marking/flipper/gradient_larm
+	name = "Gradient (left arm)"
+	icon_state = "gradient"
+	body_parts = list(BP_L_ARM)
+
+/datum/sprite_accessory/marking/flipper/gradient_rarm
+	name = "Gradient (right arm)"
+	icon_state = "gradient"
+	body_parts = list(BP_R_ARM)
+
+/datum/sprite_accessory/marking/flipper/gradient_lhand
+	name = "Gradient (left hand)"
+	icon_state = "gradient"
+	body_parts = list(BP_L_HAND)
+
+/datum/sprite_accessory/marking/flipper/gradient_rhand
+	name = "Gradient (right hand)"
+	icon_state = "gradient"
+	body_parts = list(BP_R_HAND)
+
+/datum/sprite_accessory/marking/flipper/gradient_lleg
+	name = "Gradient (left leg)"
+	icon_state = "gradient"
+	body_parts = list(BP_L_LEG)
+
+/datum/sprite_accessory/marking/flipper/gradient_rleg
+	name = "Gradient (right leg)"
+	icon_state = "gradient"
+	body_parts = list(BP_R_LEG)
+
+/datum/sprite_accessory/marking/flipper/gradient_lfoot
+	name = "Gradient (left foot)"
+	icon_state = "gradient"
+	body_parts = list(BP_L_FOOT)
+
+/datum/sprite_accessory/marking/flipper/gradient_rfoot
+	name = "Gradient (right foot)"
+	icon_state = "gradient"
+	body_parts = list(BP_R_FOOT)
+
 //frills
 
 /datum/sprite_accessory/marking/flipper/frills_divinity

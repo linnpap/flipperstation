@@ -38,3 +38,9 @@
 
 /datum/species/human/vatgrown
 	spawn_flags = SPECIES_IS_RESTRICTED
+
+/datum/species/zaddat
+	spawn_flags = SPECIES_IS_RESTRICTED
+
+/datum/species/diona
+	spawn_flags = SPECIES_IS_RESTRICTED

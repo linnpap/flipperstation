@@ -39,13 +39,15 @@
 	color_blend_mode = ICON_MULTIPLY
 
 /datum/sprite_accessory/wing/moth
-	name = "moth wings"
+	// FLIPPER EDIT - changes name to something more logical //name = "moth wings"
+	name = "insect wings"
 	desc = ""
 	icon_state = "moth"
 	species_allowed = list(SPECIES_EVENT1, SPECIES_EVENT2, SPECIES_EVENT3, SPECIES_ANTHRO_INSECT, SPECIES_ANTHRO_FLY, SPECIES_MOTH) //FLIPPER EDIT - for moths
 
 /datum/sprite_accessory/wing/mothc
-	name = "moth wings, colorable"
+	// FLIPPER EDIT - changes name to something more logical //name = "moth wings, colorable"
+	name = "insect wings, colorable"
 	desc = ""
 	icon_state = "moth"
 	do_colouration = 1
